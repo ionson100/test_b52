@@ -1,4 +1,4 @@
-package b52;
+package head;
 
 public class Main {
 
